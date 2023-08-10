@@ -1,4 +1,4 @@
-![pic](https://github.com/aka-nikko/aka-nikko/assets/54620652/81db8538-d5be-47dd-90ab-046589d52d6d)
+![pic](https://github.com/aka-nikko/aka-nikko/assets/54620652/18b28f51-eedd-4c72-9123-2f419431bea6)
 
 <!--Social media-->
 <p align="center">
