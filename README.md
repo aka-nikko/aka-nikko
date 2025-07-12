@@ -58,14 +58,14 @@
 <br>
 
 # 📊 GitHub Stats:
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=aka-nikko&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&rank_icon=github" alt="Anshul's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-nikko&layout=compact&hide_border=true&exclude_repo=modern_cpp" /></a> |
+| <a href="https://github.com/aka-nikko/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aka-nikko&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&rank_icon=github" alt="Anshul's github stats" /></a> | <a href="https://github.com/aka-nikko/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-nikko&layout=compact&hide_border=true&exclude_repo=modern_cpp" /></a> |
 | ------------- | ------------- |
 
 <br>
 
 # 📊 Top Repositories:
-<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aka-nikko&repo=desktop-activity-tracker" /></a>&emsp;
-<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aka-nikko&repo=automated-content-generator" /></a>
+<a href="https://github.com/aka-nikko/desktop-activity-tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aka-nikko&repo=desktop-activity-tracker" /></a>&emsp;
+<a href="https://github.com/aka-nikko/automated-content-generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aka-nikko&repo=automated-content-generator" /></a>
 
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aka-nikko&repo=conversational-AI" /></a>&emsp;
-<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aka-nikko&repo=cms-newsletter" /></a>
+<a href="https://github.com/aka-nikko/conversational-AI"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aka-nikko&repo=conversational-AI" /></a>&emsp;
+<a href="https://github.com/aka-nikko/cms-newsletter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aka-nikko&repo=cms-newsletter" /></a>
